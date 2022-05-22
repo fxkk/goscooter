@@ -7,7 +7,7 @@ Client-Cli and go package for [howmuchisthe.fish](http://howmuchisthe.fish/)
 ```go
 package main
 
-import "github.com/fxkk/goscooter/pgk/scooter
+import "github.com/fxkk/goscooter/pgk/scooter"
 
 func main() {
 
