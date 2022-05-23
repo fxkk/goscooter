@@ -14,7 +14,7 @@ var (
 
 	// rootCmd represents the base command when called without any subcommands
 	rootCmd = &cobra.Command{
-		Use:   "scooter",
+		Use:   "goscooter",
 		Short: "Scooter Quotes CLI",
 		Long:  `A CLI based on the https://howmuchisthe.fish API`,
 		// Uncomment the following line if your bare application
