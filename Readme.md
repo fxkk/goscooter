@@ -57,6 +57,7 @@ Flags:
   -h, --help      help for scooter
   -v, --verbose   verbose output
 
+<<<<<<< HEAD
 Use "goscooter [command] --help" for more information about a command.
 ```
 
@@ -92,3 +93,7 @@ Distributed under the MIT License. See `LICENSE` for more information.
 * [howmuchisthe.fish](https://howmuchisthe.fish/)
 * [huwmuchisthe.fish (github)](https://github.com/theimpossibleastronaut/howmuchisthe.fish)
 * [Credits go to theimpossibleastronaut](https://github.com/theimpossibleastronaut)
+=======
+Use "scooter [command] --help" for more information about a command.
+```
+>>>>>>> bab6b56 (Update Readme.md)
